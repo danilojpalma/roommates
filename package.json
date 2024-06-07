@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Danilo J. Palma",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^3.1.3"
   },

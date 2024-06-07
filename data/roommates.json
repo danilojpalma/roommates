@@ -1,22 +1,5 @@
 {
   "roommates": [
-    {
-      "id": "5cbf54",
-      "name": "Wade Caldwell",
-      "debe": 30500,
-      "recibe": 0
-    },
-    {
-      "id": "63a03b",
-      "name": "Soledad Giménez",
-      "debe": 0,
-      "recibe": 15250
-    },
-    {
-      "id": "f6903d",
-      "name": "Vladlena Fedyuk",
-      "debe": 0,
-      "recibe": 15250
-    }
+    
   ]
 }
