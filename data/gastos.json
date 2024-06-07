@@ -1,0 +1,22 @@
+{
+  "gastos": [
+    {
+      "id": "055554",
+      "roommate": "Wade Caldwell",
+      "descripcion": "Articulos de limpieza",
+      "monto": 500
+    },
+    {
+      "id": "baa303",
+      "roommate": "Wade Caldwell",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": "05c6b4",
+      "roommate": "Wade Caldwell",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    }
+  ]
+}
